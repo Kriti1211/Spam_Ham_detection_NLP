@@ -1,1 +1,3 @@
 # Spam_Ham_detection_NLP
+Abstract:
+This research investigates the efficacy of Natural Language Processing (NLP) techniques in the domain of spam detection. Leveraging a dataset containing labeled examples of spam and ham (non-spam) messages, various NLP methods are explored, including text preprocessing, feature extraction, and model selection. A comprehensive evaluation of different models, such as Naive Bayes is conducted to identify the most effective approach for accurately classifying messages as spam or ham.This model produces accuarcy of 90 %. The results demonstrate the potential of NLP in accurately distinguishing between spam and legitimate messages, thereby facilitating the development of robust spam filtering systems for email and messaging platforms.
